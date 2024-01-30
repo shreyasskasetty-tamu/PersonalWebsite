@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.a4b405aa.css",
-    "main.js": "/PersonalWebsite/static/js/main.a3f98245.js",
-    "static/media/got.png": "/PersonalWebsite/static/media/got.b7e4d086130fa46ef6f6.png",
-    "static/media/bg69.jpg": "/PersonalWebsite/static/media/bg69.10484fe7c844616e2f65.jpg",
-    "static/media/shreyas.jpg": "/PersonalWebsite/static/media/shreyas.e7613b0eda7ffd13ba26.jpg",
-    "static/media/doctorstrange.jpeg": "/PersonalWebsite/static/media/doctorstrange.9a6b040558b086e8acc7.jpeg",
-    "static/media/howimetyourmother.jpeg": "/PersonalWebsite/static/media/howimetyourmother.c5510ffdb3e23a847277.jpeg",
-    "static/media/perksofbeingwallflower.jpeg": "/PersonalWebsite/static/media/perksofbeingwallflower.5fe688059024f2da9254.jpeg",
-    "static/media/abeautifulmind.jpeg": "/PersonalWebsite/static/media/abeautifulmind.27a0de1d64bb2c9b237b.jpeg",
-    "static/media/friends.jpg": "/PersonalWebsite/static/media/friends.29b95097cd73be275845.jpg",
-    "static/media/nucleo-outline.eot": "/PersonalWebsite/static/media/nucleo-outline.56814a6b7240045e1494.eot",
-    "static/media/nucleo-outline.ttf": "/PersonalWebsite/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
-    "static/media/nucleo-outline.woff": "/PersonalWebsite/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
-    "static/media/nucleo-outline.woff2": "/PersonalWebsite/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
-    "index.html": "/PersonalWebsite/index.html"
+    "main.css": "/home/static/css/main.4b9aae76.css",
+    "main.js": "/home/static/js/main.33cb5f67.js",
+    "static/media/got.png": "/home/static/media/got.b7e4d086130fa46ef6f6.png",
+    "static/media/bg69.jpg": "/home/static/media/bg69.10484fe7c844616e2f65.jpg",
+    "static/media/shreyas.jpg": "/home/static/media/shreyas.e7613b0eda7ffd13ba26.jpg",
+    "static/media/doctorstrange.jpeg": "/home/static/media/doctorstrange.9a6b040558b086e8acc7.jpeg",
+    "static/media/howimetyourmother.jpeg": "/home/static/media/howimetyourmother.c5510ffdb3e23a847277.jpeg",
+    "static/media/perksofbeingwallflower.jpeg": "/home/static/media/perksofbeingwallflower.5fe688059024f2da9254.jpeg",
+    "static/media/abeautifulmind.jpeg": "/home/static/media/abeautifulmind.27a0de1d64bb2c9b237b.jpeg",
+    "static/media/friends.jpg": "/home/static/media/friends.29b95097cd73be275845.jpg",
+    "static/media/nucleo-outline.eot": "/home/static/media/nucleo-outline.56814a6b7240045e1494.eot",
+    "static/media/nucleo-outline.ttf": "/home/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
+    "static/media/nucleo-outline.woff": "/home/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
+    "static/media/nucleo-outline.woff2": "/home/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
+    "index.html": "/home/index.html"
   },
   "entrypoints": [
-    "static/css/main.a4b405aa.css",
-    "static/js/main.a3f98245.js"
+    "static/css/main.4b9aae76.css",
+    "static/js/main.33cb5f67.js"
   ]
 }
