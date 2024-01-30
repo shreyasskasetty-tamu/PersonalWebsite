@@ -1,15 +1,38 @@
 {
   "files": {
     "main.css": "/PersonalWebsite/static/css/main.a4b405aa.css",
-    "main.js": "/PersonalWebsite/static/js/main.2c7e7734.js",
+    "main.js": "/PersonalWebsite/static/js/main.8a056a85.js",
     "static/media/got.png": "/PersonalWebsite/static/media/got.b7e4d086130fa46ef6f6.png",
     "static/media/bg69.jpg": "/PersonalWebsite/static/media/bg69.10484fe7c844616e2f65.jpg",
+    "static/media/Photo4.png": "/PersonalWebsite/static/media/Photo4.f2f07da65ee6862dbff6.png",
+    "static/media/Photo2.png": "/PersonalWebsite/static/media/Photo2.cd817eda4939a9c4a1a3.png",
+    "static/media/Portrait4.png": "/PersonalWebsite/static/media/Portrait4.ad4c8ccee57aeb6c230b.png",
+    "static/media/peakyblinders.jpeg": "/PersonalWebsite/static/media/peakyblinders.6bcd5795f646241e2b5f.jpeg",
+    "static/media/Portrait1.png": "/PersonalWebsite/static/media/Portrait1.e40744a69b9f50fdd0ce.png",
+    "static/media/Portrait3.png": "/PersonalWebsite/static/media/Portrait3.a9d40a7e9c096a74e442.png",
+    "static/media/Portrait2.png": "/PersonalWebsite/static/media/Portrait2.ee8c556952aba2ba7186.png",
+    "static/media/soccer.jpeg": "/PersonalWebsite/static/media/soccer.8d6f02e7a15a3837f704.jpeg",
+    "static/media/Photo5.png": "/PersonalWebsite/static/media/Photo5.ff312d7801ccce108720.png",
+    "static/media/Photo1.png": "/PersonalWebsite/static/media/Photo1.31f3f63a2b6e7e441241.png",
+    "static/media/bigbangtheory.jpeg": "/PersonalWebsite/static/media/bigbangtheory.113fba9b400f14bf678c.jpeg",
+    "static/media/inception.jpeg": "/PersonalWebsite/static/media/inception.59dd31144a14fb233f7b.jpeg",
+    "static/media/Photo6.png": "/PersonalWebsite/static/media/Photo6.d8a768a2ea91f9365be6.png",
+    "static/media/Photo3.png": "/PersonalWebsite/static/media/Photo3.c3777735dafaf02bb919.png",
     "static/media/shreyas.jpg": "/PersonalWebsite/static/media/shreyas.e7613b0eda7ffd13ba26.jpg",
     "static/media/doctorstrange.jpeg": "/PersonalWebsite/static/media/doctorstrange.9a6b040558b086e8acc7.jpeg",
+    "static/media/that70sshow.jpeg": "/PersonalWebsite/static/media/that70sshow.7f4f9a4225987333a97c.jpeg",
+    "static/media/persuitofhappyness.jpeg": "/PersonalWebsite/static/media/persuitofhappyness.3d7c27f6cc1b4ee4d4e4.jpeg",
     "static/media/howimetyourmother.jpeg": "/PersonalWebsite/static/media/howimetyourmother.c5510ffdb3e23a847277.jpeg",
     "static/media/perksofbeingwallflower.jpeg": "/PersonalWebsite/static/media/perksofbeingwallflower.5fe688059024f2da9254.jpeg",
     "static/media/abeautifulmind.jpeg": "/PersonalWebsite/static/media/abeautifulmind.27a0de1d64bb2c9b237b.jpeg",
+    "static/media/catchmeifyoucan.jpeg": "/PersonalWebsite/static/media/catchmeifyoucan.11bf67bc43dbebe258fc.jpeg",
     "static/media/friends.jpg": "/PersonalWebsite/static/media/friends.29b95097cd73be275845.jpg",
+    "static/media/callofdutymw3.png": "/PersonalWebsite/static/media/callofdutymw3.c4f2a31218910cd63880.png",
+    "static/media/valorant.jpeg": "/PersonalWebsite/static/media/valorant.200d22431e48554c23e5.jpeg",
+    "static/media/badminton.jpeg": "/PersonalWebsite/static/media/badminton.2bf3afc91bd03fd63d37.jpeg",
+    "static/media/fifa2023.jpeg": "/PersonalWebsite/static/media/fifa2023.c1e22967a7d9e93f34dd.jpeg",
+    "static/media/assassinscreed.jpeg": "/PersonalWebsite/static/media/assassinscreed.a9c2144b757fa7e27af3.jpeg",
+    "static/media/farcry3.jpeg": "/PersonalWebsite/static/media/farcry3.3caad511193d67c50d1c.jpeg",
     "static/media/nucleo-outline.eot": "/PersonalWebsite/static/media/nucleo-outline.56814a6b7240045e1494.eot",
     "static/media/nucleo-outline.ttf": "/PersonalWebsite/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
     "static/media/nucleo-outline.woff": "/PersonalWebsite/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
@@ -18,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.a4b405aa.css",
-    "static/js/main.2c7e7734.js"
+    "static/js/main.8a056a85.js"
   ]
 }
