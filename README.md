@@ -4,7 +4,7 @@
 This project is a personal website designed to showcase multimedia content, particularly music. It features a modern, responsive design and provides an interactive user experience. The website includes a music player, photo gallery, and information sections.
 
 ## Demo
-Check out the live version of my personal website here: [Visit My Website]([http://.com](https://shreyasskasetty-tamu.github.io/PersonalWebsite/))
+Check out the live version of my personal website here: [Visit My Website](https://shreyasskasetty-tamu.github.io/PersonalWebsite/))
 
 ## Features
 - **Music Player**: Stream music directly from the website with a custom-built player.
